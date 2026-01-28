@@ -8,4 +8,3 @@ Civil student turning into a Web Developer. I used to study how to build structu
 ### 📫 reach me
 - **Discord:** witchie
 - **Status:** Probably fixing a boot loop or just sleeping.
-- 
