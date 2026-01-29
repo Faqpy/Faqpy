@@ -2,7 +2,7 @@
 
 Civil student turning into a Web Developer. I used to study how to build structures; now I study how to center a div.
 
-### 🔧 what i'm working on
+### 🔧 currently studying
 - **Web Dev:** Currently learning the fundamentals (HTML/CSS/JS).
 
 ### 📫 reach me
