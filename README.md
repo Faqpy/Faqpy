@@ -6,5 +6,4 @@ Civil student turning into a Web Developer. I used to study how to build structu
 - **Web Dev:** Currently learning the fundamentals (HTML/CSS/JS).
 
 ### 📫 reach me
-- **Discord:** witchie
-- **Status:** Probably fixing a boot loop or just sleeping.
+- **Discord:** [witchie](https://www.discordapp.com/users/600698629501616138)
