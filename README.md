@@ -1,9 +1,9 @@
-# hey, i'm Faqpy (witchie)
+# hey, i'm Faqpy // Witchie
 
-Civil student turning into a Web Developer. I used to study how to build structures; now I study how to center a div.
+I used to study how to build structures; now I study how to center a div.
 
-### 🔧 currently studying
-- **Web Dev:** Currently learning the fundamentals (HTML/CSS/JS).
+### currently studying
+- **Webdev:** ongoing!
 
 ### 📫 reach me
 - **Discord:** [witchie](https://www.discordapp.com/users/600698629501616138)
