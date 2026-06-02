@@ -1,1 +1,8 @@
-Status:  Have been on a break reason being university examinations. I'll get back on this as soon as I'm done with my uni practicals.
+[![header](https://raw.githubusercontent.com/faqpy/faqpy/refs/heads/main/main-icon.webp)](https://faqpy.me)
+
+<samp>
+  
+;p
+
+<a href="https://faqpy.me"><strong>website</strong></a>  | <a href="https://bsky.faqpy.me"><strong>bsky</strong></a>  | <a href="mailto:faqpy@proton.me"><strong>mail me</strong></a>
+</samp>
