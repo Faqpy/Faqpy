@@ -4,5 +4,5 @@
   
 ;p
 
-<a href="https://faqpy.me"><strong>website</strong></a>  | <a href="https://bsky.faqpy.me"><strong>bsky</strong></a>  | <a href="mailto:faqpy@proton.me"><strong>mail me</strong></a>
+<a href="https://faqpy.me"><strong>website</strong></a>  | <a href="https://bsky.faqpy.me"><strong>bsky</strong></a>  | <a href="mailto:hi@faqpy.me"><strong>mail me</strong></a>
 </samp>
